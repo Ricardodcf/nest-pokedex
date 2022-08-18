@@ -6,6 +6,7 @@
 
 
 .env
+.env.prod
 
 .package-lock.json
 .yarn.lock
